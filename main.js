@@ -101,4 +101,3 @@ let sendMessage = message.forEach(function(element,index){
     console.log("sending message to", element)
 })
 
-console.log(sendMessage);
